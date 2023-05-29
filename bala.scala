@@ -22,7 +22,7 @@ object bala{
         case '_'=>println("acche se dal be")
     }
 
-    println("kare lavdya ghe result ani ghal gandit: "+result)
+    println("your result is: "+result)
 }
     }
     
